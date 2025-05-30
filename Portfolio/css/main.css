@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+
+.vis_txt {
+    margin: 0 auto;
+}
+
+.vis_txt h2 {
+    font-size: 13rem;
+    font-weight: 400;
+    font-family: 'Panchang';
+
+}
+
+.vis_txt h2 span {
+    font-family: 'Helvetica';
+    font-weight: 300;
+}
+
+.vis_txt p {
+    font-size: 15rem;
+}
